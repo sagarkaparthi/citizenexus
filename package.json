@@ -1,0 +1,6 @@
+{
+  "name": "citizennexus",
+  "version": "2.0.0",
+  "description": "CitizenNexus — Digital Government Services Portal (static + Supabase)",
+  "private": true
+}
